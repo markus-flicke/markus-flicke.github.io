@@ -4,6 +4,7 @@
 
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Markus
+middle_name: Alexander
 last_name: Flicke
 email: markus.flicke.work@gmail.com
 description: > I am continuing to build a recommender system for research papers and our team has grown since I started the project in 2020. I am building and maintaining a website in Python-Flask with Nginx and SQLite. 
